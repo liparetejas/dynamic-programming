@@ -28,6 +28,9 @@ int tabFibo(int n) {
 // Space Optimization
 // Time: O(n); Space: O(1)
 int optFibo(int n) {
+    if(n <= 1) {
+        return n;
+    }
     int prevToPrev = 0;
     int prev = 1;
     int curr = 0;
@@ -36,7 +39,7 @@ int optFibo(int n) {
         prevToPrev = prev;
         prev = curr;
     }
-    return curr;
+    return prev;
 }
 
 int main() {
