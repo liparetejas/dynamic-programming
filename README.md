@@ -15,5 +15,6 @@ This is abstract definition of DP. Basically don't compute overlapping subproble
   - Space optimization
   
 * Problems:
-  1. Fibonacci Number
-  2. Climbing Stairs
+  1. [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
+  2. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+  3. [Min Cost Climb](https://leetcode.com/problems/min-cost-climbing-stairs/)
