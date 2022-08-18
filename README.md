@@ -20,3 +20,4 @@ This is abstract definition of DP. Basically don't compute overlapping subproble
   3. [Min Cost Climb](https://leetcode.com/problems/min-cost-climbing-stairs/)
   4. [Frog Jump with K distance](https://atcoder.jp/contests/dp/tasks/dp_b)
   5. [House Robber 1](https://leetcode.com/problems/house-robber/)
+  6. [Ninja Training](https://bit.ly/3F4yl8z)
